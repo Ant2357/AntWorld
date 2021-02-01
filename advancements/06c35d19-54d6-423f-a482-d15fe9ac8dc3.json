@@ -502,6 +502,7 @@
       "minecraft:zombified_piglin": "2021-01-29 23:20:55 +0900",
       "minecraft:husk": "2021-01-13 01:05:21 +0900",
       "minecraft:piglin": "2021-01-29 23:18:24 +0900",
+      "minecraft:enderman": "2021-02-01 23:42:31 +0900",
       "minecraft:zombie": "2021-01-13 01:05:53 +0900",
       "minecraft:zombie_villager": "2021-01-10 02:03:27 +0900"
     },
@@ -994,6 +995,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-01-10 01:46:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-02-01 23:35:18 +0900"
     },
     "done": true
   },
