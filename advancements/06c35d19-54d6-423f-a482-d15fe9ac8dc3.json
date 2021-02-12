@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-12 15:02:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-21 18:01:47 +0900"
@@ -504,6 +510,7 @@
       "minecraft:piglin": "2021-01-29 23:18:24 +0900",
       "minecraft:enderman": "2021-02-01 23:42:31 +0900",
       "minecraft:zombie": "2021-01-13 01:05:53 +0900",
+      "minecraft:drowned": "2021-02-12 15:08:20 +0900",
       "minecraft:zombie_villager": "2021-01-10 02:03:27 +0900"
     },
     "done": false
@@ -1571,6 +1578,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2021-02-12 15:25:53 +0900"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-19 02:30:14 +0900"
@@ -2312,6 +2325,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-01-19 02:17:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-02-12 15:25:53 +0900"
     },
     "done": true
   },
