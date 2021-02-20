@@ -505,6 +505,7 @@
       "minecraft:spider": "2021-01-10 01:56:41 +0900",
       "minecraft:piglin_brute": "2021-01-29 23:50:07 +0900",
       "minecraft:creeper": "2021-01-21 17:37:58 +0900",
+      "minecraft:slime": "2021-02-20 19:12:21 +0900",
       "minecraft:zombified_piglin": "2021-01-29 23:20:55 +0900",
       "minecraft:husk": "2021-01-13 01:05:21 +0900",
       "minecraft:piglin": "2021-01-29 23:18:24 +0900",
@@ -956,6 +957,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-01-19 02:30:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-02-20 19:12:25 +0900"
     },
     "done": true
   },
@@ -1855,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-02-20 19:12:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-01-25 02:55:52 +0900"
@@ -2134,6 +2147,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-12 23:13:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-02-20 19:12:25 +0900"
     },
     "done": true
   },
