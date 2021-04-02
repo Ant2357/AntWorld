@@ -1300,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-04-02 14:39:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-21 18:01:04 +0900"
@@ -1460,6 +1466,7 @@
     "criteria": {
       "cooked_porkchop": "2021-01-10 01:54:07 +0900",
       "cooked_beef": "2021-02-26 00:54:21 +0900",
+      "beef": "2021-04-02 14:18:37 +0900",
       "apple": "2021-01-10 02:08:11 +0900",
       "bread": "2021-01-13 00:56:45 +0900",
       "rotten_flesh": "2021-01-19 01:46:37 +0900"
